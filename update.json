@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "download_url": "https://github.com/mohammednassar101-lgtm/school-system-updates/releases/download/v1.2.1/SchoolSystemSetup_1.2.1.exe",
-  "sha256": "86ab90f178d8cf79eb144dcbb31fba630b6bfde80bdd78f9e705e71db840f5b8",
-  "notes": "أول اختبار فعلي لآلية التحديث التلقائي — تنزيل وتثبيت تلقائي بالكامل"
+  "version": "1.2.2",
+  "download_url": "https://github.com/mohammednassar101-lgtm/school-system-updates/releases/download/v1.2.2/SchoolSystemSetup_1.2.2.exe",
+  "sha256": "1a99d886d52fe02d9a637c1c6f341c12b196fd90ef55d9803628083b0fb6b19b",
+  "notes": "اختبار ثانٍ لآلية التحديث التلقائي — هذه المرة بالضغط الفعلي على زر التحديث من داخل البرنامج"
 }
