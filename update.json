@@ -1,6 +1,6 @@
 {
-  "version": "1.2.16",
-  "download_url": "https://github.com/mohammednassar101-lgtm/school-system-updates/releases/download/v1.2.16/SchoolSystemSetup_1.2.16.exe",
-  "sha256": "9a57b46ba3c06cc1f5801ced42cdedcda4ced6754e18000c9c5c111f561913bd",
-  "notes": "إصلاح خطير: كان التحديث التلقائي قد يفشل أحياناً بصمت تام (بدون أي رسالة خطأ) بسبب تسابق توقيت أثناء إغلاق النسخة القديمة"
+  "version": "1.2.17",
+  "download_url": "https://github.com/mohammednassar101-lgtm/school-system-updates/releases/download/v1.2.17/SchoolSystemSetup_1.2.17.exe",
+  "sha256": "d2d4c81aa577fed226db59c6eb165c16c18af8bb99506bea4de56d1f01673838",
+  "notes": "الاختبار الفعلي النهائي لإصلاح مشكلة تسابق التوقيت بآلية التحديث التلقائي"
 }
