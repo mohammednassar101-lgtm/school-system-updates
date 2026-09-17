@@ -1,6 +1,6 @@
 {
-  "version": "1.2.10",
-  "download_url": "https://github.com/mohammednassar101-lgtm/school-system-updates/releases/download/v1.2.10/SchoolSystemSetup_1.2.10.exe",
-  "sha256": "a49ffc35af9ac25c66f81a3e16d9fece541cd2f2357c6a1b793ccbd34d237f6a",
-  "notes": "اختبار إعادة الفتح التلقائي بعد التحديث"
+  "version": "1.2.12",
+  "download_url": "https://github.com/mohammednassar101-lgtm/school-system-updates/releases/download/v1.2.12/SchoolSystemSetup_1.2.12.exe",
+  "sha256": "56e83fc401d64ed7b015bc48bf1b75d5d9a082d8f8db59eb6832bb8d99553d39",
+  "notes": "اختبار إصلاح النافذة المكررة"
 }
