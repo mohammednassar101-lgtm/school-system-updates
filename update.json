@@ -1,6 +1,6 @@
 {
-  "version": "1.2.15",
-  "download_url": "https://github.com/mohammednassar101-lgtm/school-system-updates/releases/download/v1.2.15/SchoolSystemSetup_1.2.15.exe",
-  "sha256": "a8b65e0393eb5aff5fe070b4ee8ac3a70634c5b691414070be3fc9d3789998d5",
-  "notes": "إصلاح ظهور إشعار تحديث قديم خاطئ (من إصدار سابق منسي) عند إعادة تحميل صفحة النظام"
+  "version": "1.2.16",
+  "download_url": "https://github.com/mohammednassar101-lgtm/school-system-updates/releases/download/v1.2.16/SchoolSystemSetup_1.2.16.exe",
+  "sha256": "9a57b46ba3c06cc1f5801ced42cdedcda4ced6754e18000c9c5c111f561913bd",
+  "notes": "إصلاح خطير: كان التحديث التلقائي قد يفشل أحياناً بصمت تام (بدون أي رسالة خطأ) بسبب تسابق توقيت أثناء إغلاق النسخة القديمة"
 }
