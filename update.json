@@ -1,6 +1,6 @@
 {
-  "version": "1.2.13",
-  "download_url": "https://github.com/mohammednassar101-lgtm/school-system-updates/releases/download/v1.2.13/SchoolSystemSetup_1.2.13.exe",
-  "sha256": "b82a9b2080456a6ddf9e825169a553c66d6a3461ba566b0288f91d409c6769cb",
-  "notes": "إخفاء نافذة Console + رسالة تأكيد التحديث"
+  "version": "1.2.14",
+  "download_url": "https://github.com/mohammednassar101-lgtm/school-system-updates/releases/download/v1.2.14/SchoolSystemSetup_1.2.14.exe",
+  "sha256": "859a087d928c745b70da7ee250f9cc8ac9d025a5c0cb6174f08eb690619093d5",
+  "notes": "إصلاح رقم الإصدار الخاطئ برسالة تأكيد التحديث"
 }
