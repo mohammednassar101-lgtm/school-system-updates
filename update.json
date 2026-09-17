@@ -1,6 +1,6 @@
 {
-  "version": "1.2.14",
-  "download_url": "https://github.com/mohammednassar101-lgtm/school-system-updates/releases/download/v1.2.14/SchoolSystemSetup_1.2.14.exe",
-  "sha256": "859a087d928c745b70da7ee250f9cc8ac9d025a5c0cb6174f08eb690619093d5",
-  "notes": "إصلاح رقم الإصدار الخاطئ برسالة تأكيد التحديث"
+  "version": "1.2.15",
+  "download_url": "https://github.com/mohammednassar101-lgtm/school-system-updates/releases/download/v1.2.15/SchoolSystemSetup_1.2.15.exe",
+  "sha256": "a8b65e0393eb5aff5fe070b4ee8ac3a70634c5b691414070be3fc9d3789998d5",
+  "notes": "إصلاح ظهور إشعار تحديث قديم خاطئ (من إصدار سابق منسي) عند إعادة تحميل صفحة النظام"
 }
