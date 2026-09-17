@@ -1,6 +1,6 @@
 {
-  "version": "1.2.8",
-  "download_url": "https://github.com/mohammednassar101-lgtm/school-system-updates/releases/download/v1.2.8/SchoolSystemSetup_1.2.8.exe",
-  "sha256": "48ba48c573eebb23e33d88e461fddf081efa6f194afec786cc0f4b11e503e625",
-  "notes": "الاختبار الفعلي النهائي لآلية التحديث التلقائي بعد إصلاح خطأي رمز الحماية وتسجيل النشاط"
+  "version": "1.2.10",
+  "download_url": "https://github.com/mohammednassar101-lgtm/school-system-updates/releases/download/v1.2.10/SchoolSystemSetup_1.2.10.exe",
+  "sha256": "a49ffc35af9ac25c66f81a3e16d9fece541cd2f2357c6a1b793ccbd34d237f6a",
+  "notes": "اختبار إعادة الفتح التلقائي بعد التحديث"
 }
