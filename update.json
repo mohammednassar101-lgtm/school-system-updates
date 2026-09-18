@@ -1,6 +1,6 @@
 {
-  "version": "1.2.17",
-  "download_url": "https://github.com/mohammednassar101-lgtm/school-system-updates/releases/download/v1.2.17/SchoolSystemSetup_1.2.17.exe",
-  "sha256": "d2d4c81aa577fed226db59c6eb165c16c18af8bb99506bea4de56d1f01673838",
-  "notes": "الاختبار الفعلي النهائي لإصلاح مشكلة تسابق التوقيت بآلية التحديث التلقائي"
+  "version": "1.2.18",
+  "download_url": "https://github.com/mohammednassar101-lgtm/school-system-updates/releases/download/v1.2.18/SchoolSystemSetup_1.2.18.exe",
+  "sha256": "9d6be4fcc27f242df3e1cc29856c74b8d56b648dcc3f9e72aab7a68825131d2f",
+  "notes": "إصلاحات جوهرية ببوابة الدفع الإلكتروني: إعادة توجيه ولي الأمر بعد نجاح الدفع، تسجيل الدفعات الناجحة بشكل صحيح دائماً، تسجيل النشاط، سداد جزئي، وتصنيف طريقة الدفع"
 }
