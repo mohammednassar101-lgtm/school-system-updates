@@ -1,6 +1,6 @@
 {
-  "version": "1.2.18",
-  "download_url": "https://github.com/mohammednassar101-lgtm/school-system-updates/releases/download/v1.2.18/SchoolSystemSetup_1.2.18.exe",
-  "sha256": "9d6be4fcc27f242df3e1cc29856c74b8d56b648dcc3f9e72aab7a68825131d2f",
-  "notes": "إصلاحات جوهرية ببوابة الدفع الإلكتروني: إعادة توجيه ولي الأمر بعد نجاح الدفع، تسجيل الدفعات الناجحة بشكل صحيح دائماً، تسجيل النشاط، سداد جزئي، وتصنيف طريقة الدفع"
+  "version": "1.2.19",
+  "download_url": "https://github.com/mohammednassar101-lgtm/school-system-updates/releases/download/v1.2.19/SchoolSystemSetup_1.2.19.exe",
+  "sha256": "b95db6c4029f411aae9ab64f7ea4296735c00fee0fc21563644fd6b07df81326",
+  "notes": "إصلاح خطأ جوهري في الضريبة: أصبحت تنعكس بشكل متسق بكل أجزاء النظام (بوابة ولي الأمر، لوحة التحكم، التقارير)، إصلاح ظهور الأرقام الهندية بحقول الأرقام، إصلاح رقم الإصدار بصفحة الإعدادات، وإصلاح أمني لشاشة تغيير كلمة المرور الإجباري"
 }
