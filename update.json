@@ -1,6 +1,7 @@
 {
-  "version": "1.2.19",
-  "download_url": "https://github.com/mohammednassar101-lgtm/school-system-updates/releases/download/v1.2.19/SchoolSystemSetup_1.2.19.exe",
-  "sha256": "b95db6c4029f411aae9ab64f7ea4296735c00fee0fc21563644fd6b07df81326",
-  "notes": "إصلاح خطأ جوهري في الضريبة: أصبحت تنعكس بشكل متسق بكل أجزاء النظام (بوابة ولي الأمر، لوحة التحكم، التقارير)، إصلاح ظهور الأرقام الهندية بحقول الأرقام، إصلاح رقم الإصدار بصفحة الإعدادات، وإصلاح أمني لشاشة تغيير كلمة المرور الإجباري"
+  "version": "1.3.17",
+  "download_url": "https://github.com/mohammednassar101-lgtm/school-system-updates/releases/download/v1.3.17/SchoolSystemSetup_1.3.17.exe",
+  "sha256": "d8f7066bdc1fb78af26fa83e9118850e6e67912341c17a4e501f868ed24cf696",
+  "signature": "q9B2U_QMljx0Tj3QmGQ9B7tUy0tkjVUAKZi-leBaThznyRAJ7oBnkRYMqPEGqCD7TaVtTDmzsRCK9yFzQu3SDw",
+  "notes": "تحسينات في نوافذ النسخ الاحتياطي، وتنبيهات التمرير على الجوال، ورسائل إلغاء التثبيت بالعربية."
 }
