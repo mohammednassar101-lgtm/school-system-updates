@@ -1,7 +1,7 @@
 {
-  "version": "1.3.19",
-  "download_url": "https://github.com/mohammednassar101-lgtm/school-system-updates/releases/download/v1.3.19/SchoolSystemSetup_1.3.19.exe",
-  "sha256": "64532ec79ff0b2f0642b25ddcbf9b93e6815e13eed01093f7daab3094729c173",
-  "signature": "_lzACuMGAc1LpNDNA7j3-nQvYLYUEsfudY3y_S7pr7sr30r0qtAvoQahv2-lH3UFsW9-mpgrWSszMXxkW_3LDA",
-  "notes": "عند أول تشغيل بعد التثبيت، وبعد أي تحديث يغيّر نصها، تظهر اتفاقية استخدام البرنامج ليوافق عليها مدير النظام قبل الاستخدام، وتُسجَّل موافقته، ويمكن قراءتها لاحقاً من صفحة «حول البرنامج».\r\nصار في المثبّت خيار «منع سكون الجهاز عند التوصيل بالكهرباء» لجهاز الخادم (بموافقة المسؤول)، وتعود إعدادات الطاقة الأصلية عند إلغاء تثبيت البرنامج.\r\nتظهر للمدير وحده في لوحة التحكم رسالة إن كان الجهاز سينام بعد فترة خمول عند التوصيل بالكهرباء، لأن ذلك يقطع الجوالات عن البرنامج، مع طريقة تفادي ذلك."
+  "version": "1.3.20",
+  "download_url": "https://github.com/mohammednassar101-lgtm/school-system-updates/releases/download/v1.3.20/SchoolSystemSetup_1.3.20.exe",
+  "sha256": "0b6837c37f88968615282da339c23c8cd5d8efbf82bf84b7d9c222af22b712cb",
+  "signature": "7BKlSHdd8OTJM_NH5XwVcHBPu1vre0_ylweCki319jBhIGo3pdYaAe2JnCsMlsX4A-VH24UZvMoGIzktaTgFBQ",
+  "notes": "تحسينات في دقة المبالغ والدفع الإلكتروني وأمان الاستعادة وسرعة القوائم"
 }
