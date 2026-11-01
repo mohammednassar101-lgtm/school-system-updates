@@ -1,7 +1,7 @@
 {
-  "version": "1.3.20",
-  "download_url": "https://github.com/mohammednassar101-lgtm/school-system-updates/releases/download/v1.3.20/SchoolSystemSetup_1.3.20.exe",
-  "sha256": "0b6837c37f88968615282da339c23c8cd5d8efbf82bf84b7d9c222af22b712cb",
-  "signature": "7BKlSHdd8OTJM_NH5XwVcHBPu1vre0_ylweCki319jBhIGo3pdYaAe2JnCsMlsX4A-VH24UZvMoGIzktaTgFBQ",
-  "notes": "تحسينات في دقة المبالغ والدفع الإلكتروني وأمان الاستعادة وسرعة القوائم"
+  "version": "1.3.21",
+  "download_url": "https://github.com/mohammednassar101-lgtm/school-system-updates/releases/download/v1.3.21/SchoolSystemSetup_1.3.21.exe",
+  "sha256": "2a559f362871d8125bc44cbb21f6430088ca4b800cc6a5a41b2bf66c496b5e47",
+  "signature": "gra9oaJRa94txopQvplBn9H2XDuEOUgLSnkLVe2Zwgyw1g18RSAi_9koqOFDy7BqGEtJ2M2zDjw95Eo0Y88yDw",
+  "notes": "إصلاح: لوحة التحكم وشاشة الرسوم والتقارير المالية لم تعد تتعطل عن عرض أرقامها إن وُجدت في خطة رسوم قديمة خانة مبلغ فارغة."
 }
