@@ -1,7 +1,7 @@
 {
-  "version": "1.3.23",
-  "download_url": "https://github.com/mohammednassar101-lgtm/school-system-updates/releases/download/v1.3.23/SchoolSystemSetup_1.3.23.exe",
-  "sha256": "ac59a5e2ce4b1a849e0d46c60efd1fbad74bd68edd8fe28da89528da632cd11c",
-  "signature": "jiW-QGwKBoVtT7Y_DlZcV3z0Uj-x65N15NQ-oayXVkrvpTIIE9nlLs3iQeCFPXM_tnlKQEoupqYsUkwgzhBACg",
-  "notes": "خيار جديد في الإعدادات: إدخال أسعار النقل المدرسي والخدمات والزي شاملة ضريبة القيمة المضافة، فيظهر الإجمالي في الخطة والفاتورة مطابقاً تماماً للسعر المُدخَل (مثلاً 5,000.00 لا 5,000.20)؛ الخيار معطّل افتراضياً ولا يغيّر الخطط والفواتير القائمة\r\nحقول بيانات المدرسة التي لم تُدخَل بعد تظهر فارغة بنص إرشادي بدل القيم الافتراضية، واختيار الطالب في نافذتي خطة الرسوم وتسويات الأرصدة يظهر بوضوح في سطر «الطالب المختار» مع زر لتغييره"
+  "version": "1.3.24",
+  "download_url": "https://github.com/mohammednassar101-lgtm/school-system-updates/releases/download/v1.3.24/SchoolSystemSetup_1.3.24.exe",
+  "sha256": "e0364a23b3832bc651b01c97298330c9f978204d7304983246f36dce05395bc9",
+  "signature": "Ye0BQ4F2g9jzlW7XIWRL-du_YNUdNQ1jiIuR7n6yo5gU6szM4gOuS1RI4Uavvpx5hk3VPmf6b0AdqHtE2FcdCA",
+  "notes": "الأرقام تظهر الآن بأرقام لاتينية (0-9) في كل حقول المبالغ والأعداد على كل المتصفحات، وما يُكتب أو يُلصق بأرقام هندية يتحول تلقائياً إلى لاتينية؛ والقيم غير الصالحة مثل الفاصلة أو الحروف تُرفض برسالة واضحة بدل حفظها خطأ.\r\nأسهم الزيادة والنقصان وعجلة الفأرة لم تعد تغيّر القيمة في الحقول الرقمية؛ تُكتب القيمة بالكتابة أو اللصق.\r\nإصلاح أرقام الواتساب ورمز حضور المعلم وموعد تسليم الواجب عند إدخالها بأرقام هندية."
 }
